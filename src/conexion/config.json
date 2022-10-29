@@ -1,0 +1,12 @@
+
+{
+  "host": "localhost",
+
+  "user": "root",
+
+  "puerto": 3000,
+
+  "password": "",
+
+  "database": "escritorio"
+}
